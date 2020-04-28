@@ -8,7 +8,7 @@ long calc (int m)
     scanf("%d",&x);
     printf("please enter the second number \n");
     scanf("%d",&y);
-    printf(" please enter 1 for + , 2 for - , 3 for * or 4 for / \n ");
+    printf(" please enter 1 for + , 2 for - , 3 for * or 4 for / \n ");//comment 2 //
     scanf("%d",&z);
     if(z>=1 && z<=4)
     {
