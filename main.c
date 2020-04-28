@@ -2,7 +2,7 @@
 #include <stdlib.h>
 long calc (int m)
 {
-    int x,y,z;
+    int x,y,z;//comment//
     long r;
     printf("please enter the first number \n");
     scanf("%d",&x);
